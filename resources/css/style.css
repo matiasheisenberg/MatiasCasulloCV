@@ -154,6 +154,10 @@ h2::after {
 }
 
 /* ----- BUTTONS ----- */
+.pdf{
+    text-align: center;
+    padding-top: 25px;
+}
 
 .btn:link,
 .btn:visited,
